@@ -17,7 +17,7 @@
         "drupal/cloudflare": "^2.0@beta",
         "drupal/config_ignore": "^3.3",
         "drupal/core": "^10 || ^11",
-        "drupal/ctools": "^3.0",
+        "drupal/ctools": "^4.1",
         "drupal/google_tag": "^2.0",
         "drupal/http_cache_control": "^2.1",
         "drupal/menu_trail_by_path": "^2.1",
