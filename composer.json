@@ -1,7 +1,7 @@
 {
     "name": "m-creative-web/creative_starter",
     "description": "Michigan Creative Drupal Starter Kit",
-    "type": "drupal-profile",
+    "type": "drupal-custom-profile",
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
     "prefer-stable": true,
