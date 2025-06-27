@@ -10,7 +10,7 @@ If you need to install this manually, do these steps first
 $ mkdir web/modules/custom
 $ git clone git@github.com:m-creative-web/creative-paragraphs.git web/modules/custom/creative_paragraphs
 $ rm -rf web/modules/custom/creative_paragraphs/.git
-$ git clone git@github.com:m-creative-web/creative-custom.git web/modules/custom/creative_custom
+$ git clone git@github.com:m-creative-web/creative-custom-module.git web/modules/custom/creative_custom
 $ rm -rf web/modules/custom/creative_custom/.git
 ```
 2. 
