@@ -46,9 +46,6 @@
             "drupal/core": {
                 "Batch is dependent on the order of query string parameters": "https://git.drupalcode.org/issue/drupal-2879023/-/commit/c68aa376a7fc262886cb56d9ac762e4b06e6b174.patch"
             },
-            "drupal/openid_connect": {
-                "Autologin when one client enabled": "https://www.drupal.org/files/issues/2023-09-21/openid_connect-autologin-3011413-98.patch"
-            },
             "drupal/redirect":  {
                 "Endless Redirection loop when \"Enforce clean and canonical URLs\" is enabled": "https://www.drupal.org/files/issues/2024-08-12/3037259-39.patch"
             }
