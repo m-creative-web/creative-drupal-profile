@@ -2,7 +2,17 @@
 User-agent: Bytespider
 Disallow: /
 
+User-agent: *
+Crawl-delay: 30
+Sitemap: /sitemap.xml
+
 # Do not index nor follow links that have a query string
 # (e.g. /search?page=123  or /search?size=small&color=red)
 User-agent: *
 Disallow: /*?
+# Solr facets
+Disallow: /search*
+Disallow: /*?f[*
+Disallow: /*&f[*
+Disallow: /*?f%5B*
+Disallow: /*&f%5B*
