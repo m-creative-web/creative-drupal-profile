@@ -25,6 +25,7 @@ install:
   - filter
   - google_tag
   - image
+  - key
   - link
   - media
   - media_library
@@ -36,6 +37,7 @@ install:
   - node
   - openid_connect
   - options
+  - pantheon_secrets
   - path
   - path_alias
   - paragraphs

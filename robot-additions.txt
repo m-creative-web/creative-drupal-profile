@@ -5,6 +5,7 @@ Disallow: /
 User-agent: *
 Crawl-delay: 30
 Sitemap: /sitemap.xml
+Allow: /sitemap.xml?
 
 # Do not index nor follow links that have a query string
 # (e.g. /search?page=123  or /search?size=small&color=red)
