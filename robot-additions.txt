@@ -3,7 +3,6 @@ User-agent: Bytespider
 Disallow: /
 
 User-agent: *
-Crawl-delay: 30
 Sitemap: /sitemap.xml
 Allow: /sitemap.xml?
 
